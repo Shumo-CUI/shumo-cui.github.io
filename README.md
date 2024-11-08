@@ -162,21 +162,34 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 Total **14** courses taught as a lecturer:
 
-| Year | Semester | University | Course Name                          | Role      |
-|------|----------|------------|--------------------------------------|-----------|
-| 2024 | Spring   | SUSTech    | Life Insurance Actuarial Science     | Lecturer  |
-| 2023 | Spring   | SUSTech    | Life Insurance Actuarial Science     | Lecturer  |
-| 2023 | Spring   | SUSTech    | Introduction to MATLAB               | Lecturer  |
-| 2022 | Fall     | SUSTech    | Introduction to MATLAB               | Lecturer  |
-| 2022 | Spring   | SUSTech    | Numerical Analysis, graduate course  | Lecturer  |
-| 2021 | Fall     | SUSTech    | Numerical Analysis, graduate course  | Lecturer  |
-| 2020 | Fall     | SUSTech    | Partial Differential Equations (H)   | Lecturer  |
-| 2020 | Fall     | SUSTech    | Chartered Financial Analyst Course: Level I | Lecturer  |
-| 2019 | Fall     | SUSTech    | Partial Differential Equations       | Lecturer  |
-| 2016 | Fall     | Temple     | Calculus II                          | Lecturer  |
-| 2016 | Spring   | Temple     | Calculus I                           | Lecturer  |
-| 2014 | Fall     | Tulane     | Calculus I                           | Lecturer  |
-| 2012 | Spring   | Tulane     | Calculus III                         | Lecturer  |
+| Year  | Semester | University  | Course Name                                | Role               |
+|-------|----------|-------------|--------------------------------------------|--------------------|
+| 2024  | Spring   | SUSTech     | Life Insurance Actuarial Science           | Lecturer           |
+| 2023  | Spring   | SUSTech     | Life Insurance Actuarial Science           | Lecturer           |
+| 2023  | Spring   | SUSTech     | Introduction to MATLAB                     | Lecturer           |
+| 2022  | Fall     | SUSTech     | Introduction to MATLAB                     | Lecturer           |
+| 2022  | Spring   | SUSTech     | Numerical Analysis (graduate course)       | Lecturer           |
+| 2021  | Fall     | SUSTech     | Numerical Analysis (graduate course)       | Lecturer           |
+| 2020  | Fall     | SUSTech     | Partial Differential Equations (H)         | Lecturer           |
+| 2020  | Fall     | SUSTech     | Chartered Financial Analyst Course: Level I| Lecturer           |
+| 2020  | Spring   | SUSTech     | MATLAB Programming and Application         | Lecturer           |
+| 2019  | Fall     | SUSTech     | Partial Differential Equations             | Lecturer           |
+| 2016  | Fall     | Temple      | Calculus II                                | Lecturer           |
+| 2016  | Spring   | Temple      | Calculus I                                 | Lecturer           |
+| 2014  | Fall     | Tulane      | Calculus I                                 | Lecturer           |
+| 2012  | Spring   | Tulane      | Calculus III                               | Lecturer           |
+| 2014  | Fall     | Tulane      | Engineering Mechanics                      | Teaching Assistant |
+| 2013  | Fall     | Tulane      | Engineering Mechanics                      | Teaching Assistant |
+| 2012  | Fall     | Tulane      | Engineering Mechanics                      | Teaching Assistant |
+| 2011  | Fall     | Tulane      | Real Analysis                              | Teaching Assistant |
+| 2011  | Fall     | Tulane      | Linear Algebra                             | Teaching Assistant |
+| 2011  | Fall     | Tulane      | Engineering Mechanics                      | Teaching Assistant |
+| 2011  | Spring   | Tulane      | Calculus II                                | Teaching Assistant |
+| 2010  | Fall     | Tulane      | Statistics for Business                    | Teaching Assistant |
+
+$\bigstar$ **Free MATLAB lecture videos published online**  
+56 lectures, 47 hours, 1,085,192 views, 53,692 bookmarks, 17,350 followers, 14,848 likes, 6,660 shares  
+URL: [https://space.bilibili.com/505044910](https://space.bilibili.com/505044910)
 
 ---
 
