@@ -2,7 +2,7 @@
 
 **E-mail:** cuism@sustech.edu.cn
 
-[**My CV**](https://www.jianguoyun.com/p/DdEfBW8QgpH_DBjkgOoFIAA)
+[**My CV**](https://github.com/Shumo-CUI/shumo-cui.github.io/blob/main/CV_Shumo_Cui.pdf)
 ---
 
 
