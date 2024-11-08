@@ -177,7 +177,6 @@ Total **14** courses taught as a lecturer:
 | 2016 | Spring   | Temple     | Calculus I                           | Lecturer  |
 | 2014 | Fall     | Tulane     | Calculus I                           | Lecturer  |
 | 2012 | Spring   | Tulane     | Calculus III                         | Lecturer  |
-| 2014 | Fall     | Tulane     | Engineering Mechanics                | Teaching Assistant |
 
 ---
 
