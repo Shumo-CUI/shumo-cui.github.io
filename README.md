@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 # Shumo Cui
 
 **E-mail:** cuism@sustech.edu.cn
