@@ -3,6 +3,9 @@
 **E-mail:** cuism@sustech.edu.cn
 
 [**Curriculum Vitae**](https://github.com/Shumo-CUI/shumo-cui.github.io/raw/main/CV_Shumo_Cui.pdf)
+[**Google Scholar**](https://scholar.google.com.hk/citations?user=MZTPxhQAAAAJ&hl=en)
+[**Web of Science**](https://webofscience.clarivate.cn/wos/author/record/1887975)
+[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=56116813700)
 ---
 
 ## Address
