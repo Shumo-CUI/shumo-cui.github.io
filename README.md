@@ -7,9 +7,9 @@
 
 ## Address
 
-Shenzhen International Center for Mathematics  
+Office 208, Shenzhen International Center for Mathematics (SICM)  
 Second Floor, Taizhou Hall  
-Southern University of Science and Technology  
+Southern University of Science and Technology (SUSTech)  
 1088 Xueyuan Avenue  
 Nanshan District, Shenzhen, Guangdong, China  
 
