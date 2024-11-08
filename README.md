@@ -62,16 +62,16 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 - **PI**, Shenzhen Natural Science Foundation, General Program (深圳市, 面上项目)  
   *2025 – 2028*
 
-- **Participant**, NSFC, Major Research Plan (国自然, 重大研究计划)  
+- **Participant**, National Natural Science Foundation of China, Major Research Plan (国自然, 重大研究计划)  
   *2024 – 2026*
 
 - **Participant**, Shenzhen Outstanding Youth Science Fund (深圳市, 杰青项目)  
   *2023 – 2028*
 
-- **Participant**, NSFC, General Program (国自然, 面上项目)  
+- **Participant**, National Natural Science Foundation of China, General Program (国自然, 面上项目)  
   *2022 – 2025*
 
-- **Participant**, NSFC, International Cooperation Programs (国自然, 国际合作与交流项目)  
+- **Participant**, National Natural Science Foundation of China, International Cooperation Programs (国自然, 国际合作与交流项目)  
   *2021 – 2022*
 
 ---
