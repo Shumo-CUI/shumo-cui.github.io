@@ -7,15 +7,11 @@
 
 ## Address
 
-Shenzhen International Center for Mathematics
-
-Second Floor, Taizhou Hall
-
-Southern University of Science and Technology
-
-1088 Xueyuan Avenue
-
-Nanshan District, Shenzhen, Guangdong, China
+Shenzhen International Center for Mathematics  
+Second Floor, Taizhou Hall  
+Southern University of Science and Technology  
+1088 Xueyuan Avenue  
+Nanshan District, Shenzhen, Guangdong, China  
 
 ## Work Experience
 
