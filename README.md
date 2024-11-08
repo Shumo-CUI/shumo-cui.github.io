@@ -2,10 +2,16 @@
 
 **E-mail:** cuism@sustech.edu.cn
 
-[**My CV**](https://github.com/Shumo-CUI/shumo-cui.github.io/raw/main/CV_Shumo_Cui.pdf)
+[**Curriculum Vitae**](https://github.com/Shumo-CUI/shumo-cui.github.io/raw/main/CV_Shumo_Cui.pdf)
 ---
 
+## Address
 
+Shenzhen International Center for Mathematics
+Second Floor, Taizhou Hall
+Southern University of Science and Technology
+1088 Xueyuan Avenue
+Nanshan District, Shenzhen, Guangdong, China
 
 ## Work Experience
 
