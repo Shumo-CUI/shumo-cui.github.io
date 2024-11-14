@@ -121,9 +121,9 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 16. S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, submitted to **Journal of Computational Physics**.
 
-17. **S. Cui**, K. Wu, L. Xu. *On local minimum entropy principle of high-order schemes for relativistic Euler equations*, ready to be submitted to **Numerische Mathematik**.
+18. **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, submitted to **Journal of Computational Physics**.
 
-18. **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, preprint.
+17. **S. Cui**, K. Wu, L. Xu. *On local minimum entropy principle of high-order schemes for relativistic Euler equations*, ready to be submitted to **Numerische Mathematik**.
 
 19. **S. Cui**, S. Ding, K. Wu. *Positive Linear Functional Approach for Bound-Preserving High-Order Schemes: Foundation and Framework on General Meshes*, preprint.
 
