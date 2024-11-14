@@ -101,7 +101,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 7\. A. Chertock, **S. Cui**, A. Kurganov, Ş. N. Özcan, E. Tadmor. *Well-Balanced Schemes for the Euler Equations with Gravitation: Conservative Formulation Using Global Fluxes*, **Journal of Computational Physics**, 358(2018), pp. 36–52.  
 
 6\. R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, H. Pohlmann, F. Wu, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Dissipation of Stop-and-Go Waves via Control of Autonomous Vehicles: Field Experiments*, **Transportation Research Part C: Emerging Technologies**, 89(2018), pp. 205–221.  
-   $\bigstar$ *Highly Cited Paper (Top 1%)*
+   $\bigstar$ *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
 5\. A. Chertock, **S. Cui**, A. Kurganov. *Hybrid Finite-Volume-Particle Method for Dusty Gas Flows*, **SMAI Journal of Computational Mathematics**, 3(2017), pp. 139–180.
 
