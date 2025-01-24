@@ -127,8 +127,9 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 * A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Well-Balanced Positivity Preserving Central-Upwind Scheme for the Shallow Water System with Friction Terms*, **International Journal for Numerical Methods in Fluids**, 78(2015), pp. 355–383.  
 -->
 
+<!--
 * **S. Cui**, A. Kurganov, A. Medovikov. *Particle Methods for PDEs Arising in Financial Modeling*, **Applied Numerical Mathematics**, 93(2015), pp. 123–139.
-
+-->
 ---
 
 ## Submitted Papers and Preprints
