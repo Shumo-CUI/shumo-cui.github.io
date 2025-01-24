@@ -16,9 +16,13 @@ Southern University of Science and Technology (SUSTech)
 
 ## Work Experience
 
+**Research Associate Professor**  
+Shenzhen International Center for Mathematics, Southern University of Science and Technology  
+*January 2025 – Present*
+
 **Research Assistant Professor**  
 Shenzhen International Center for Mathematics, Southern University of Science and Technology  
-*February 2023 – present*
+*February 2023 – December 2024*
 
 **Visiting Assistant Professor**  
 Department of Mathematics, Southern University of Science and Technology  
@@ -82,7 +86,9 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ---
 
-## Published Papers
+## Selected Papers
+
+15\. S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, accepted by **Journal of Computational Physics**.
 
 14\. W. Chen, **S. Cui**, K. Wu, T. Xiong. *Bound-preserving OEDG method for Aw-Rascle-Zhang traffic models on networks*, **Journal of Computational Physics**, 520(2025), 113507.  
 
@@ -117,9 +123,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Submitted Papers and Preprints
 
-15\. A. Chertock, **S. Cui**, A. Kurganov, C. Wang. *A Hybrid Finite-Difference-Particle Method for Chemotaxis Models*, submitted to **Journal of Scientific Computing**.
-
-16\. S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, submitted to **Journal of Computational Physics**.
+16\. A. Chertock, **S. Cui**, A. Kurganov, C. Wang. *A Hybrid Finite-Difference-Particle Method for Chemotaxis Models*, submitted to **Journal of Scientific Computing**.
 
 17\. **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, submitted to **Journal of Computational Physics**.
 
