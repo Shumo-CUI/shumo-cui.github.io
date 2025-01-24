@@ -96,7 +96,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 * **S. Cui**, A. Kurganov, K. Wu. *Bound-Preserving Framework for Central-Upwind Schemes for General Hyperbolic Conservation Laws*, **SIAM Journal on Scientific Computing**, 46(2024), A2899-A2924.  
 
 * **S. Cui**, S. Ding, K. Wu. *On Optimal Cell Average Decomposition for High-Order Bound-Preserving Schemes of Hyperbolic Conservation Laws*, **SIAM Journal on Numerical Analysis**, 62(2024), 775–810.  
-   :trophy: *Highly Cited Paper (Top 1% citation, labeled by web of science)*
+   🏆 *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
 * C. Wang, A. Chertock, **S. Cui**, A. Kurganov, Z. Zhang. *A Diffuse-Domain Based Numerical Method for a Chemotaxis-Fluid Model*, **Mathematical Models and Methods in Applied Sciences**, 33(2023), 341–375.  
 
@@ -111,7 +111,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 * A. Chertock, **S. Cui**, A. Kurganov, Ş. N. Özcan, E. Tadmor. *Well-Balanced Schemes for the Euler Equations with Gravitation: Conservative Formulation Using Global Fluxes*, **Journal of Computational Physics**, 358(2018), pp. 36–52.  
 
 * R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, H. Pohlmann, F. Wu, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Dissipation of Stop-and-Go Waves via Control of Autonomous Vehicles: Field Experiments*, **Transportation Research Part C: Emerging Technologies**, 89(2018), pp. 205–221.  
-   :trophy: *Highly Cited Paper (Top 1% citation, labeled by web of science)*
+   🏆 *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
 <!--
 * A. Chertock, **S. Cui**, A. Kurganov. *Hybrid Finite-Volume-Particle Method for Dusty Gas Flows*, **SMAI Journal of Computational Mathematics**, 3(2017), pp. 139–180.
