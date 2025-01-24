@@ -6,7 +6,7 @@
 [[Google Scholar]](https://scholar.google.com.hk/citations?user=MZTPxhQAAAAJ&hl=en)
 [[Web of Science]](https://webofscience.clarivate.cn/wos/author/record/1887975)
 [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=56116813700)
- -->
+-->
  
 ## Address
 
@@ -104,20 +104,28 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 * F. Wu, R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Tracking Vehicle Trajectories and Fuel Rates in Phantom Traffic Jams: Methodology and Data*, **Transportation Research Part C: Emerging Technologies**, 99(2019), pp. 82–109.  
 
+<!--
 * R. Bhadani, M. Bunting, B. Seibold, R. Stern, **S. Cui**, J. Sprinkle, B. Piccoli, D. B. Work. *Real-Time Distance Estimation and Filtering of Vehicle Headways for Smoothing of Traffic Waves*, **ICCPS 2019**.
+-->
 
 * A. Chertock, **S. Cui**, A. Kurganov, Ş. N. Özcan, E. Tadmor. *Well-Balanced Schemes for the Euler Equations with Gravitation: Conservative Formulation Using Global Fluxes*, **Journal of Computational Physics**, 358(2018), pp. 36–52.  
 
 * R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, H. Pohlmann, F. Wu, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Dissipation of Stop-and-Go Waves via Control of Autonomous Vehicles: Field Experiments*, **Transportation Research Part C: Emerging Technologies**, 89(2018), pp. 205–221.  
    :trophy: *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
+<!--
 * A. Chertock, **S. Cui**, A. Kurganov. *Hybrid Finite-Volume-Particle Method for Dusty Gas Flows*, **SMAI Journal of Computational Mathematics**, 3(2017), pp. 139–180.
+-->
 
+<!--
 * **S. Cui**, B. Seibold, R. E. Stern, D. B. Work. *Stabilizing Traffic Flow via a Single Autonomous Vehicle: Possibilities and Limitations*, **IV Symposium, 2017**.  
+-->
 
 * A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Steady State and Sign Preserving Semi-Implicit Runge-Kutta Methods for ODEs with Stiff Damping Term*, **SIAM Journal on Numerical Analysis**, 53(2015), pp. 2008–2029.
 
+<!--
 * A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Well-Balanced Positivity Preserving Central-Upwind Scheme for the Shallow Water System with Friction Terms*, **International Journal for Numerical Methods in Fluids**, 78(2015), pp. 355–383.  
+-->
 
 * **S. Cui**, A. Kurganov, A. Medovikov. *Particle Methods for PDEs Arising in Financial Modeling*, **Applied Numerical Mathematics**, 93(2015), pp. 123–139.
 
