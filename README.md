@@ -89,7 +89,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Selected Papers
 
-* S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, accepted by **Journal of Computational Physics**.
+* S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, **Journal of Computational Physics**, 526(2025), 113769.
 
 * W. Chen, **S. Cui**, K. Wu, T. Xiong. *Bound-preserving OEDG method for Aw-Rascle-Zhang traffic models on networks*, **Journal of Computational Physics**, 520(2025), 113507.  
 
@@ -102,7 +102,9 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 * **S. Cui**, S. Ding, K. Wu. *Is the Classic Convex Decomposition Optimal for Bound-Preserving Schemes in Multiple Dimensions?* **Journal of Computational Physics**, 476(2023), 111882.  
 
+<!--
 * F. Wu, R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Tracking Vehicle Trajectories and Fuel Rates in Phantom Traffic Jams: Methodology and Data*, **Transportation Research Part C: Emerging Technologies**, 99(2019), pp. 82–109.  
+-->
 
 <!--
 * R. Bhadani, M. Bunting, B. Seibold, R. Stern, **S. Cui**, J. Sprinkle, B. Piccoli, D. B. Work. *Real-Time Distance Estimation and Filtering of Vehicle Headways for Smoothing of Traffic Waves*, **ICCPS 2019**.
