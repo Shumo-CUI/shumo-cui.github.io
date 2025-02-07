@@ -138,6 +138,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 <!--
 * **S. Cui**, A. Kurganov, A. Medovikov. *Particle Methods for PDEs Arising in Financial Modeling*, **Applied Numerical Mathematics**, 93(2015), pp. 123–139.
 -->
+
 ---
 
 ## Submitted Papers
