@@ -89,18 +89,26 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Selected Papers
 
+* **S. Cui**, S. Ding, K. Wu. *On Optimal Cell Average Decomposition for High-Order Bound-Preserving Schemes of Hyperbolic Conservation Laws*, **SIAM Journal on Numerical Analysis**, 62(2024), 775–810.  
+   🏆 *Highly Cited Paper (Top 1% citation, labeled by web of science)*
+
+* **S. Cui**, A. Kurganov, K. Wu. *Bound-Preserving Framework for Central-Upwind Schemes for General Hyperbolic Conservation Laws*, **SIAM Journal on Scientific Computing**, 46(2024), A2899-A2924.  
+
+* C. Wang, A. Chertock, **S. Cui**, A. Kurganov, Z. Zhang. *A Diffuse-Domain Based Numerical Method for a Chemotaxis-Fluid Model*, **Mathematical Models and Methods in Applied Sciences**, 33(2023), 341–375.  
+
+
 * S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, **Journal of Computational Physics**, 526(2025), 113769.
 
 * W. Chen, **S. Cui**, K. Wu, T. Xiong. *Bound-preserving OEDG method for Aw-Rascle-Zhang traffic models on networks*, **Journal of Computational Physics**, 520(2025), 113507.  
 
-* **S. Cui**, A. Kurganov, K. Wu. *Bound-Preserving Framework for Central-Upwind Schemes for General Hyperbolic Conservation Laws*, **SIAM Journal on Scientific Computing**, 46(2024), A2899-A2924.  
+* **S. Cui**, S. Ding, K. Wu. *Is the Classic Convex Decomposition Optimal for Bound-Preserving Schemes in Multiple Dimensions?* **Journal of Computational Physics**, 476(2023), 111882.
+  
+* A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Steady State and Sign Preserving Semi-Implicit Runge-Kutta Methods for ODEs with Stiff Damping Term*, **SIAM Journal on Numerical Analysis**, 53(2015), pp. 2008–2029.
 
-* **S. Cui**, S. Ding, K. Wu. *On Optimal Cell Average Decomposition for High-Order Bound-Preserving Schemes of Hyperbolic Conservation Laws*, **SIAM Journal on Numerical Analysis**, 62(2024), 775–810.  
+* R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, H. Pohlmann, F. Wu, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Dissipation of Stop-and-Go Waves via Control of Autonomous Vehicles: Field Experiments*, **Transportation Research Part C: Emerging Technologies**, 89(2018), pp. 205–221.  
    🏆 *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
-* C. Wang, A. Chertock, **S. Cui**, A. Kurganov, Z. Zhang. *A Diffuse-Domain Based Numerical Method for a Chemotaxis-Fluid Model*, **Mathematical Models and Methods in Applied Sciences**, 33(2023), 341–375.  
 
-* **S. Cui**, S. Ding, K. Wu. *Is the Classic Convex Decomposition Optimal for Bound-Preserving Schemes in Multiple Dimensions?* **Journal of Computational Physics**, 476(2023), 111882.  
 
 <!--
 * F. Wu, R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Tracking Vehicle Trajectories and Fuel Rates in Phantom Traffic Jams: Methodology and Data*, **Transportation Research Part C: Emerging Technologies**, 99(2019), pp. 82–109.  
@@ -112,8 +120,6 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 * A. Chertock, **S. Cui**, A. Kurganov, Ş. N. Özcan, E. Tadmor. *Well-Balanced Schemes for the Euler Equations with Gravitation: Conservative Formulation Using Global Fluxes*, **Journal of Computational Physics**, 358(2018), pp. 36–52.  
 
-* R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, H. Pohlmann, F. Wu, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Dissipation of Stop-and-Go Waves via Control of Autonomous Vehicles: Field Experiments*, **Transportation Research Part C: Emerging Technologies**, 89(2018), pp. 205–221.  
-   🏆 *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
 <!--
 * A. Chertock, **S. Cui**, A. Kurganov. *Hybrid Finite-Volume-Particle Method for Dusty Gas Flows*, **SMAI Journal of Computational Mathematics**, 3(2017), pp. 139–180.
@@ -123,7 +129,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 * **S. Cui**, B. Seibold, R. E. Stern, D. B. Work. *Stabilizing Traffic Flow via a Single Autonomous Vehicle: Possibilities and Limitations*, **IV Symposium, 2017**.  
 -->
 
-* A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Steady State and Sign Preserving Semi-Implicit Runge-Kutta Methods for ODEs with Stiff Damping Term*, **SIAM Journal on Numerical Analysis**, 53(2015), pp. 2008–2029.
+
 
 <!--
 * A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Well-Balanced Positivity Preserving Central-Upwind Scheme for the Shallow Water System with Friction Terms*, **International Journal for Numerical Methods in Fluids**, 78(2015), pp. 355–383.  
