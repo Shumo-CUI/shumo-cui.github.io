@@ -148,7 +148,8 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 * **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, submitted to **Journal of Computational Physics**.
 
 * A. Chertock, **S. Cui**, A. Kurganov, C. Wang. *A Hybrid Finite-Difference-Particle Method for Chemotaxis Models*, submitted to **Journal of Scientific Computing**.
-* 
+
+
 <!--
 * **S. Cui**, S. Ding, K. Wu. *Positive Linear Functional Approach for Bound-Preserving High-Order Schemes: Foundation and Framework on General Meshes*, preprint.
 -->
