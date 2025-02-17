@@ -213,7 +213,7 @@ Total **14** courses taught as a lecturer:
 | 2011  | Spring   | Tulane      | Calculus II                                | Teaching Assistant |
 | 2010  | Fall     | Tulane      | Statistics for Business                    | Teaching Assistant |
 
-$\bigstar$ **Free MATLAB lecture videos published online**  
+⭐ **Free MATLAB lecture videos published online**  
 56 lectures, 47 hours, 1,085,192 views, 53,692 bookmarks, 17,350 followers, 14,848 likes, 6,660 shares  
 URL: [https://space.bilibili.com/505044910](https://space.bilibili.com/505044910)
 
