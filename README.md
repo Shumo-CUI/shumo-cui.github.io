@@ -1,6 +1,4 @@
-<!--
 # Shumo Cui
--->
 
 **E-mail:** cuism@sustech.edu.cn
 <!--
