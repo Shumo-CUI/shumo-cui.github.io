@@ -89,6 +89,11 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Selected Papers
 
+* S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, **Journal of Computational Physics**, 526(2025), 113769.
+
+* W. Chen, **S. Cui**, K. Wu, T. Xiong. *Bound-preserving OEDG method for Aw-Rascle-Zhang traffic models on networks*, **Journal of Computational Physics**, 520(2025), 113507.
+
+
 * **S. Cui**, S. Ding, K. Wu. *On Optimal Cell Average Decomposition for High-Order Bound-Preserving Schemes of Hyperbolic Conservation Laws*, **SIAM Journal on Numerical Analysis**, 62(2024), 775–810.  
    🏆 *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
@@ -96,19 +101,12 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 * C. Wang, A. Chertock, **S. Cui**, A. Kurganov, Z. Zhang. *A Diffuse-Domain Based Numerical Method for a Chemotaxis-Fluid Model*, **Mathematical Models and Methods in Applied Sciences**, 33(2023), 341–375.  
 
-
-* S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, **Journal of Computational Physics**, 526(2025), 113769.
-
-* W. Chen, **S. Cui**, K. Wu, T. Xiong. *Bound-preserving OEDG method for Aw-Rascle-Zhang traffic models on networks*, **Journal of Computational Physics**, 520(2025), 113507.  
-
 * **S. Cui**, S. Ding, K. Wu. *Is the Classic Convex Decomposition Optimal for Bound-Preserving Schemes in Multiple Dimensions?* **Journal of Computational Physics**, 476(2023), 111882.
-  
-* A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Steady State and Sign Preserving Semi-Implicit Runge-Kutta Methods for ODEs with Stiff Damping Term*, **SIAM Journal on Numerical Analysis**, 53(2015), pp. 2008–2029.
 
 * R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, H. Pohlmann, F. Wu, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Dissipation of Stop-and-Go Waves via Control of Autonomous Vehicles: Field Experiments*, **Transportation Research Part C: Emerging Technologies**, 89(2018), pp. 205–221.  
    🏆 *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
-
+* A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Steady State and Sign Preserving Semi-Implicit Runge-Kutta Methods for ODEs with Stiff Damping Term*, **SIAM Journal on Numerical Analysis**, 53(2015), pp. 2008–2029.
 
 <!--
 * F. Wu, R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Tracking Vehicle Trajectories and Fuel Rates in Phantom Traffic Jams: Methodology and Data*, **Transportation Research Part C: Emerging Technologies**, 99(2019), pp. 82–109.  
