@@ -106,6 +106,9 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 * R. E. Stern, **S. Cui**, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, H. Pohlmann, F. Wu, B. Piccoli, B. Seibold, J. Sprinkle, D. B. Work. *Dissipation of Stop-and-Go Waves via Control of Autonomous Vehicles: Field Experiments*, **Transportation Research Part C: Emerging Technologies**, 89(2018), pp. 205–221.  
    🏆 *Highly Cited Paper (Top 1% citation, labeled by web of science)*
 
+* A. Chertock, **S. Cui**, A. Kurganov, Ş. N. Özcan, E. Tadmor. *Well-Balanced Schemes for the Euler Equations with Gravitation: Conservative Formulation Using Global Fluxes*, **Journal of Computational Physics**, 358(2018), pp. 36–52.
+
+  
 * A. Chertock, **S. Cui**, A. Kurganov, T. Wu. *Steady State and Sign Preserving Semi-Implicit Runge-Kutta Methods for ODEs with Stiff Damping Term*, **SIAM Journal on Numerical Analysis**, 53(2015), pp. 2008–2029.
 
 <!--
@@ -116,7 +119,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 * R. Bhadani, M. Bunting, B. Seibold, R. Stern, **S. Cui**, J. Sprinkle, B. Piccoli, D. B. Work. *Real-Time Distance Estimation and Filtering of Vehicle Headways for Smoothing of Traffic Waves*, **ICCPS 2019**.
 -->
 
-* A. Chertock, **S. Cui**, A. Kurganov, Ş. N. Özcan, E. Tadmor. *Well-Balanced Schemes for the Euler Equations with Gravitation: Conservative Formulation Using Global Fluxes*, **Journal of Computational Physics**, 358(2018), pp. 36–52.  
+
 
 
 <!--
