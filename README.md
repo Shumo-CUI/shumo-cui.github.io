@@ -165,29 +165,32 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 - **非线性微分方程的保结构数值方法专题讨论会 (中国数学会计算数学年会)**
   Changsha, Hunan
-  August 17 - August 21, 2025*
+  *August 17 - August 21, 2025*
 
 - **双曲守恒律数值方法与计算流体力学研讨会**
   Department of Mathematics, SUSTech
-  May 30 - June 2, 2025*
+  *May 30 - June 2, 2025*
 
 - **科学计算与数值分析前沿研讨会**
   Department of Mathematics, SUSTech
-  March 28 - March 31, 2025*
+  *March 28 - March 31, 2025*
 
 - **高精度计算方法与高可扩展数值算法学术研讨会**
   Department of Mathematics, SUSTech
-  Febuary 28 - March 3, 2025*
+  *Febuary 28 - March 3, 2025*
 
-- **Mini-Workshop on Advances in Computational and Applied Mathematics (WACAM)**  
+- **Mini-Workshop on Advances in Computational and Applied Mathematics (WACAM)**
+  
   Shenzhen International Center for Mathematics, Shenzhen  
   *July 12 – July 14, 2024*
 
-- **Workshop III: Numerical Methods for Shallow Water Models**  
+- **Workshop III: Numerical Methods for Shallow Water Models**
+  
   Shenzhen International Center for Mathematics, Shenzhen  
   *May 11 – May 15, 2024*
 
-- **Spring School: Numerical Methods for Shallow Water Models**  
+- **Spring School: Numerical Methods for Shallow Water Models**
+  
   Shenzhen International Center for Mathematics, Shenzhen  
   *May 6 – May 10, 2024*
 
