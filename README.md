@@ -147,6 +147,8 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ---
 
+<!--
+
 ## Submitted Papers
 
 * **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, submitted to **Journal of Computational Physics**.
@@ -160,6 +162,8 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 -->
 
 ---
+
+-->
 
 ## Conferences Organized or Co-Organized
 
