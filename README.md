@@ -153,13 +153,9 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 * **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, submitted to **Journal of Computational Physics**.
 
-<!--
 * **S. Cui**, S. Ding, K. Wu. *Positive Linear Functional Approach for Bound-Preserving High-Order Schemes: Foundation and Framework on General Meshes*, preprint.
--->
 
-<!--
 * W. Chen, **S. Cui**, K. Wu, T. Xiong, B. Yu. *High-Order Moving Mesh Methods Preserving Non-Convex Invariant Domain of Hyperbolic Systems*, preprint.
--->
 
 ---
 
