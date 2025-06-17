@@ -67,10 +67,10 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 - **PI**, National Natural Science Foundation of China, General Program (国自然, 面上项目)  
   *2025 – 2027*  
 
-- **PI**, Guangdong Natural Science Foundation, General Program (广东省, 面上项目)  
+- **PI**, Guangdong Basic and Applied Basic Research Foundation, General Program (广东省, 面上项目)  
   *2024 – 2026*
 
-- **PI**, Shenzhen Natural Science Foundation, General Program (深圳市, 面上项目)  
+- **PI**, Shenzhen Science and Technology Program, General Program (深圳市, 面上项目)  
   *2025 – 2028*
 
 - **Participant**, National Natural Science Foundation of China, Major Research Plan (国自然, 重大研究计划)  
@@ -163,19 +163,19 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Conferences Organized or Co-Organized
 
-- **非线性微分方程的保结构数值方法专题讨论会 (Special Session on Structure-Preserving Numerical Methods for Nonlinear Differential Equations)**  
+- **Special Session on Structure-Preserving Numerical Methods for Nonlinear Differential Equations (非线性微分方程的保结构数值方法专题讨论会)**  
   中国数学会计算数学年会, Changsha, Hunan  
   *August 17 - August 21, 2025*
 
-- **双曲守恒律数值方法与计算流体力学研讨会 (Workshop on Numerical Methods for Hyperbolic Conservation Laws and CFD)**  
+- **Workshop on Numerical Methods for Hyperbolic Conservation Laws and CFD (双曲守恒律数值方法与计算流体力学研讨会)**  
   Department of Mathematics, SUSTech  
   *May 30 - June 2, 2025*
 
-- **科学计算与数值分析前沿研讨会 (Frontiers in Scientific Computing and Numerical Analysis)**  
+- **Frontiers in Scientific Computing and Numerical Analysis (科学计算与数值分析前沿研讨会)**  
   Department of Mathematics, SUSTech  
   *March 28 - March 31, 2025*
 
-- **高精度计算方法与高可扩展数值算法学术研讨会 (Workshop on High-Order Methods and Highly Scalable Numerical Algorithms)**  
+- **Workshop on High-Order Methods and Highly Scalable Numerical Algorithms (高精度计算方法与高可扩展数值算法学术研讨会)**  
   Department of Mathematics, SUSTech  
   *Febuary 28 - March 3, 2025*
 
