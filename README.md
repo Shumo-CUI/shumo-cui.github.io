@@ -175,7 +175,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
   Department of Mathematics, SUSTech  
   *March 28 - March 31, 2025*
 
-- **Workshop on High-Order Methods and Highly Scalable Numerical Algorithms (高精度计算方法与高可扩展数值算法学术研讨会)**  
+- **高精度计算方法与高可扩展数值算法学术研讨会 (Workshop on High-Order Methods and Highly Scalable Numerical Algorithms)**  
   Department of Mathematics, SUSTech  
   *Febuary 28 - March 3, 2025*
 
