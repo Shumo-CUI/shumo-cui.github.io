@@ -89,6 +89,11 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Selected Papers
 
+
+* **S. Cui**, K. Wu, L. Xu. *On local minimum entropy principle of high-order schemes for relativistic Euler equations*, **Mathematics of Computation**, to appear.
+  
+* A. Chertock, **S. Cui**, A. Kurganov, C. Wang. *A Hybrid Finite-Difference-Particle Method for Chemotaxis Models*, **Journal of Scientific Computing**, to appear.
+
 * S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, **Journal of Computational Physics**, 526(2025), 113769.
 
 * W. Chen, **S. Cui**, K. Wu, T. Xiong. *Bound-preserving OEDG method for Aw-Rascle-Zhang traffic models on networks*, **Journal of Computational Physics**, 520(2025), 113507.
@@ -144,12 +149,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Submitted Papers
 
-* **S. Cui**, K. Wu, L. Xu. *On local minimum entropy principle of high-order schemes for relativistic Euler equations*, submitted to **Mathematics of Computation**.
-
 * **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, submitted to **Journal of Computational Physics**.
-
-* A. Chertock, **S. Cui**, A. Kurganov, C. Wang. *A Hybrid Finite-Difference-Particle Method for Chemotaxis Models*, submitted to **Journal of Scientific Computing**.
-
 
 <!--
 * **S. Cui**, S. Ding, K. Wu. *Positive Linear Functional Approach for Bound-Preserving High-Order Schemes: Foundation and Framework on General Meshes*, preprint.
@@ -163,8 +163,24 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Conferences Organized or Co-Organized
 
+- **非线性微分方程的保结构数值方法专题讨论会 (中国数学会计算数学年会)**
+- Changsha, Hunan
+- August 17 - August 21, 2025*
+
+- **双曲守恒律数值方法与计算流体力学研讨会**
+- Department of Mathematics, SUSTech
+- May 30 - June 2, 2025*
+
+- **科学计算与数值分析前沿研讨会**
+- Department of Mathematics, SUSTech
+- March 28 - March 31, 2025*
+
+- **高精度计算方法与高可扩展数值算法学术研讨会**
+- Department of Mathematics, SUSTech
+- Febuary 28 - March 3, 2025*
+
 - **Mini-Workshop on Advances in Computational and Applied Mathematics (WACAM)**  
-  SUSTech International Center for Mathematics, Shenzhen  
+  Shenzhen International Center for Mathematics, Shenzhen  
   *July 12 – July 14, 2024*
 
 - **Workshop III: Numerical Methods for Shallow Water Models**  
