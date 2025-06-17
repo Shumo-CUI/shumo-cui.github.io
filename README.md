@@ -163,24 +163,23 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Conferences Organized or Co-Organized
 
-- **非线性微分方程的保结构数值方法专题讨论会 (中国数学会计算数学年会)**
-  Changsha, Hunan
+- **非线性微分方程的保结构数值方法专题讨论会 (Special Session on Structure-Preserving Numerical Methods for Nonlinear Differential Equations)**
+  中国数学会计算数学年会, Changsha, Hunan
   *August 17 - August 21, 2025*
 
-- **双曲守恒律数值方法与计算流体力学研讨会**
+- **双曲守恒律数值方法与计算流体力学研讨会 (Workshop on Numerical Methods for Hyperbolic Conservation Laws and CFD)**
   Department of Mathematics, SUSTech
   *May 30 - June 2, 2025*
 
-- **科学计算与数值分析前沿研讨会**
+- **科学计算与数值分析前沿研讨会 (Frontiers in Scientific Computing and Numerical Analysis)**
   Department of Mathematics, SUSTech
   *March 28 - March 31, 2025*
 
-- **高精度计算方法与高可扩展数值算法学术研讨会**
+- **Workshop on High-Order Methods and Highly Scalable Numerical Algorithms (高精度计算方法与高可扩展数值算法学术研讨会)**
   Department of Mathematics, SUSTech
   *Febuary 28 - March 3, 2025*
 
 - **Mini-Workshop on Advances in Computational and Applied Mathematics (WACAM)**
-  
   Shenzhen International Center for Mathematics, Shenzhen  
   *July 12 – July 14, 2024*
 
