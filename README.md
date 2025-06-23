@@ -89,11 +89,13 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 ## Selected Papers
 
-* **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, **Journal of Computational Physics**, to appear.
-
 * **S. Cui**, K. Wu, L. Xu. *On local minimum entropy principle of high-order schemes for relativistic Euler equations*, **Mathematics of Computation**, to appear.
+
+* **S. Cui**, Y. Gu, A. Kurganov, K. Wu, R. Xin. *Positivity-Preserving New Low-Dissipation Central-Upwind Schemes for Compressible Euler Equations*, **Journal of Computational Physics**, to appear.
   
+<!--
 * A. Chertock, **S. Cui**, A. Kurganov, C. Wang. *A Hybrid Finite-Difference-Particle Method for Chemotaxis Models*, **Journal of Scientific Computing**, to appear.
+-->
 
 * S. Ding, **S. Cui**, K. Wu. *Robust DG Schemes on Unstructured Triangular Meshes: Oscillation-Damping Filter and Bound Preservation via Optimal Convex Decomposition*, **Journal of Computational Physics**, 526(2025), 113769.
 
