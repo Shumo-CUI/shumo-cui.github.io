@@ -165,7 +165,7 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 ## Conferences Organized or Co-Organized
 
 - **Special Session on Structure-Preserving Numerical Methods for Nonlinear Differential Equations (非线性微分方程的保结构数值方法专题讨论会)**  
-  中国数学会计算数学年会, Changsha, Hunan  
+  The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society (第十四届中国数学会计算数学年会), Changsha, Hunan  
   *August 17 - August 21, 2025*
 
 - **Workshop on Numerical Methods for Hyperbolic Conservation Laws and CFD (双曲守恒律数值方法与计算流体力学研讨会)**  
