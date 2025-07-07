@@ -2,3 +2,6 @@ theme: jekyll-theme-Cayman
 title: "Dr. Shumo Cui's Homepage"
 description: "Dr. Shumo Cui's Homepage"
 author: "Shumo Cui"
+# Add this line to include your custom head
+include:
+  - head-custom.html
