@@ -19,9 +19,13 @@ Southern University of Science and Technology (SUSTech)
 
 ## Work Experience
 
+**Associate Professor**  
+School of Science, Sun Yat-Sen University
+*January 2025 – present*
+
 **Research Associate Professor**  
 Shenzhen International Center for Mathematics, Southern University of Science and Technology  
-*January 2025 – Present*
+*January 2025 – December 2025*
 
 **Research Assistant Professor**  
 Shenzhen International Center for Mathematics, Southern University of Science and Technology  
