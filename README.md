@@ -2,7 +2,7 @@
 
 # Shumo Cui (崔书墨)
 
-**E-mail:** cuism@sustech.edu.cn
+**E-mail:** cuishm3[at]mail[dot]sysu[dot]edu[dot]cn
 <!--
 [[Curriculum Vitae]](https://github.com/Shumo-CUI/shumo-cui.github.io/raw/main/CV_Shumo_Cui.pdf)
 [[Google Scholar]](https://scholar.google.com.hk/citations?user=MZTPxhQAAAAJ&hl=en)
@@ -12,10 +12,10 @@
  
 ## Address
 
-Office 208, Shenzhen International Center for Mathematics (SICM)  
-Second Floor, Taizhou Hall  
-Southern University of Science and Technology (SUSTech)  
-1088 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China.
+Room 815, West Teaching Building
+Sun Yat-sen University (Shenzhen)
+66, Gongchang Road, Guangming District
+Shenzhen, Guangdong 518107, China
 
 ## Work Experience
 
