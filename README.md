@@ -12,10 +12,10 @@
  
 ## Address
 
-Room 815, West Teaching Building
-Sun Yat-sen University (Shenzhen)
-66, Gongchang Road, Guangming District
-Shenzhen, Guangdong 518107, China
+Office 815, West Teaching Building  
+Sun Yat-sen University (Shenzhen)  
+66, Gongchang Road, Guangming District  
+Shenzhen, Guangdong, China
 
 ## Work Experience
 
