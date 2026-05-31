@@ -170,6 +170,12 @@ Numerical Methods for Hyperbolic Partial Differential Equations, Structure-Prese
 
 -->
 
+## Ph.D. Student Recruitment
+
+I welcome inquiries from motivated students interested in pursuing Ph.D. research in computational mathematics, scientific computing, and numerical methods for partial differential equations. Possible research topics include structure-preserving high-order numerical schemes, hyperbolic conservation laws, computational fluid dynamics, traffic flow models, and related applications.
+
+Students with a solid background in mathematics, interest in numerical analysis and scientific computing, and programming experience in C/C++, MATLAB, Python, or related languages are encouraged to contact me by email with a CV, transcript, and a brief description of their research interests.
+
 ## Conferences Organized or Co-Organized
 
 - **Special Session on Structure-Preserving Numerical Methods for Nonlinear Differential Equations (非线性微分方程的保结构数值方法专题讨论会)**  
