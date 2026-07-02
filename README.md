@@ -233,18 +233,18 @@ Total **14** courses taught as a lecturer:
 | 2020  | Fall     | SUSTech     | Chartered Financial Analyst Course: Level I| Lecturer           |
 | 2020  | Spring   | SUSTech     | MATLAB Programming and Application         | Lecturer           |
 | 2019  | Fall     | SUSTech     | Partial Differential Equations             | Lecturer           |
-| 2016  | Fall     | Temple      | Calculus II                                | Lecturer           |
-| 2016  | Spring   | Temple      | Calculus I                                 | Lecturer           |
-| 2014  | Fall     | Tulane      | Calculus I                                 | Lecturer           |
-| 2012  | Spring   | Tulane      | Calculus III                               | Lecturer           |
-| 2014  | Fall     | Tulane      | Engineering Mechanics                      | Teaching Assistant |
-| 2013  | Fall     | Tulane      | Engineering Mechanics                      | Teaching Assistant |
-| 2012  | Fall     | Tulane      | Engineering Mechanics                      | Teaching Assistant |
-| 2011  | Fall     | Tulane      | Real Analysis                              | Teaching Assistant |
-| 2011  | Fall     | Tulane      | Linear Algebra                             | Teaching Assistant |
-| 2011  | Fall     | Tulane      | Engineering Mechanics                      | Teaching Assistant |
-| 2011  | Spring   | Tulane      | Calculus II                                | Teaching Assistant |
-| 2010  | Fall     | Tulane      | Statistics for Business                    | Teaching Assistant |
+| 2016  | Fall     | Temple U    | Calculus II                                | Lecturer           |
+| 2016  | Spring   | Temple U    | Calculus I                                 | Lecturer           |
+| 2014  | Fall     | Tulane U    | Calculus I                                 | Lecturer           |
+| 2012  | Spring   | Tulane U    | Calculus III                               | Lecturer           |
+| 2014  | Fall     | Tulane U    | Engineering Mechanics                      | Teaching Assistant |
+| 2013  | Fall     | Tulane U    | Engineering Mechanics                      | Teaching Assistant |
+| 2012  | Fall     | Tulane U    | Engineering Mechanics                      | Teaching Assistant |
+| 2011  | Fall     | Tulane U    | Real Analysis                              | Teaching Assistant |
+| 2011  | Fall     | Tulane U    | Linear Algebra                             | Teaching Assistant |
+| 2011  | Fall     | Tulane U    | Engineering Mechanics                      | Teaching Assistant |
+| 2011  | Spring   | Tulane U    | Calculus II                                | Teaching Assistant |
+| 2010  | Fall     | Tulane U    | Statistics for Business                    | Teaching Assistant |
 
 ⭐ **Free MATLAB lecture videos published online**  
 56 lectures, 47 hours, 1,085,192 views, 53,692 bookmarks, 17,350 followers, 14,848 likes, 6,660 shares  
