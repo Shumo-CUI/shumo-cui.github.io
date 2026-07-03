@@ -252,6 +252,8 @@ Total **14** courses taught as a lecturer:
 56 lectures, 47 hours, 1,085,192 views, 53,692 bookmarks, 17,350 followers, 14,848 likes, 6,660 shares  
 URL: [https://space.bilibili.com/505044910](https://space.bilibili.com/505044910)
 
+[.](https://github.com/Shumo-CUI/shumo-cui.github.io/raw/main/_includes/中山大学理学院暑期学校报告_崔书墨_20260703.pptx)
+
 ---
 
-[[*]](https://github.com/Shumo-CUI/shumo-cui.github.io/raw/main/_includes/中山大学理学院暑期学校报告_崔书墨_20260703.pptx)
+
