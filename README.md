@@ -222,7 +222,7 @@ Total **14** courses taught as a lecturer:
 
 | Year  | Semester | University  | Course Name                                | Role               |
 |-------|----------|-------------|--------------------------------------------|--------------------|
-| 2026  | Spring   | SUSY-SZ     | Numerical Analysis                         | Lecturer           |
+| 2026  | Spring   | SUSY-SZ     | Advanced Numerical Analysis (graduate course) | Lecturer           |
 | 2024  | Spring   | SUSTech     | Life Insurance Actuarial Science           | Lecturer           |
 | 2023  | Spring   | SUSTech     | Life Insurance Actuarial Science           | Lecturer           |
 | 2023  | Spring   | SUSTech     | Introduction to MATLAB                     | Lecturer           |
