@@ -10,7 +10,7 @@
 [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=56116813700)
 -->
 
-[[*]](https://github.com/Shumo-CUI/shumo-cui.github.io/raw/main/_includes/中山大学理学院暑期学校报告_崔书墨_20260703.pptx)
+
  
 ## Address
 
@@ -254,4 +254,4 @@ URL: [https://space.bilibili.com/505044910](https://space.bilibili.com/505044910
 
 ---
 
-
+[[*]](https://github.com/Shumo-CUI/shumo-cui.github.io/raw/main/_includes/中山大学理学院暑期学校报告_崔书墨_20260703.pptx)
